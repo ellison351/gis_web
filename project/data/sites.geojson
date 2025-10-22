@@ -1,0 +1,200 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "狮子山楚王陵",
+          "type": "王陵",
+          "description": "西汉楚王陵墓",
+          "image": "img/shizishan.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.219375, 34.246358]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "龟山汉墓",
+          "type": "墓葬",
+          "description": "西汉第六代楚王襄王刘注合葬墓",
+          "image": "img/guishan.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.131333, 34.30845]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "汉兵马俑博物馆",
+          "type": "博物馆",
+          "description": "展示西汉楚王地下军团，4000余件陶俑，包括步兵方阵、骑兵俑坑",
+          "image": "img/hanbingmayong.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.214215, 34.246103]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "水下兵马俑博物馆",
+          "type": "博物馆",
+          "description": "全国首座水下兵马俑馆，展示重装/轻装骑兵俑坑及陶马",
+          "image": "img/shuixiabingmayong.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.213752, 34.246518]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "汉画像石艺术馆",
+          "type": "艺术馆",
+          "description": "收藏1600余块汉画像石，题材包括车马出行、乐舞百戏、神话传说",
+          "image": "img/hanhuaixiangshi.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.170843, 34.242030]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "刘氏宗祠",
+          "type": "宗祠",
+          "description": "汉刘氏家族宗祠，展示汉帝生平及文物，汉文化元素丰富",
+          "image": "img/liushizongci.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.214, 34.246]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "竹林寺",
+          "type": "寺庙",
+          "description": "中国第一比丘尼道场，晋代创建，距今1600年，融合佛教与汉文化",
+          "image": "img/zhulin.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.210, 34.250]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "汉文化交流中心",
+          "type": "文化中心",
+          "description": "核心展厅，重现汉文化精髓，支持拓片体验，登高鸟瞰景区",
+          "image": "img/hanhuanjiaoliu.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.214, 34.246]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "羊鬼山王后陵",
+          "type": "王后陵",
+          "description": "西汉王后陵墓群，展示皇家陪葬制度，通过展亭重现汉文化精髓",
+          "image": "img/yangguishan.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.220, 34.240]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "北洞山汉墓",
+          "type": "墓葬",
+          "description": "西汉早期楚王墓，复式地宫600㎡，出土钱币5万枚及彩绘仪卫俑",
+          "image": "img/beidongshan.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.250, 34.350]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "解忧公主纪念馆",
+          "type": "纪念馆",
+          "description": "纪念汉代解忧公主，展示丝路文化交流，融合文旅元素",
+          "image": "img/jieyougongzhu.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.250, 34.180]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "徐州博物馆",
+          "type": "博物馆",
+          "description": "馆藏汉代文物丰富，包括金缕玉衣、汉代玉器和青铜器",
+          "image": "img/xuzoubowuguan.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.180758, 34.252085]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "汉文化广场",
+          "type": "广场",
+          "description": "外延区休闲广场，高9.9m刘邦青铜像，寓意西汉纪年",
+          "image": "img/hanhuaguangchang.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.214, 34.246]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "兵马俑陪葬坑",
+          "type": "考古遗迹",
+          "description": "狮子山楚王陵附近的汉代兵马俑陪葬坑，出土陶俑",
+          "image": "img/bingmayongpeizang.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.215, 34.246]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "汉画长廊",
+          "type": "展廊",
+          "description": "展示汉代画像石的300米长廊，呈现实汉文化艺术",
+          "image": "img/hanhuachanglang.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [117.213752, 34.246518]
+        }
+      }
+    ]
+  }
